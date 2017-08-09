@@ -1,52 +1,52 @@
 Initialize engine version: 4.2.0f4 (38efbd14869d)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2401]
-    Renderer: Intel(R) HD Graphics Family
+    Version:  Direct3D 9.0c [igdumdim32.dll 20.19.15.4568]
+    Renderer: Intel(R) HD Graphics 5500
     Vendor:   Intel
-    VRAM:     880 MB (via DXGI)
+    VRAM:     2111 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: F:\natu000test4_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading F:\natu000test4_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: F:\natu000test4_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading F:\natu000test4_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: F:\natu000test4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading F:\natu000test4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: F:\natu000test4_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading F:\natu000test4_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: F:\natu000test4_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading F:\natu000test4_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: F:\natu000test4_Data\Managed\JsonFx.Json.dll (this message is harmless)
-Loading F:\natu000test4_Data\Managed\JsonFx.Json.dll into Unity Child Domain
-Platform assembly: F:\natu000test4_Data\Managed\FPSControlLib.dll (this message is harmless)
-Loading F:\natu000test4_Data\Managed\FPSControlLib.dll into Unity Child Domain
-Platform assembly: F:\natu000test4_Data\Managed\RAINIndie.dll (this message is harmless)
-Loading F:\natu000test4_Data\Managed\RAINIndie.dll into Unity Child Domain
-Platform assembly: F:\natu000test4_Data\Managed\Recast.dll (this message is harmless)
-Loading F:\natu000test4_Data\Managed\Recast.dll into Unity Child Domain
-- Completed reload, in  1.444 seconds
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: D:\natu000test4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\natu000test4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\natu000test4_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\natu000test4_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\natu000test4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\natu000test4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\natu000test4_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\natu000test4_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\natu000test4_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\natu000test4_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\natu000test4_Data\Managed\JsonFx.Json.dll (this message is harmless)
+Loading D:\natu000test4_Data\Managed\JsonFx.Json.dll into Unity Child Domain
+Platform assembly: D:\natu000test4_Data\Managed\FPSControlLib.dll (this message is harmless)
+Loading D:\natu000test4_Data\Managed\FPSControlLib.dll into Unity Child Domain
+Platform assembly: D:\natu000test4_Data\Managed\RAINIndie.dll (this message is harmless)
+Loading D:\natu000test4_Data\Managed\RAINIndie.dll into Unity Child Domain
+Platform assembly: D:\natu000test4_Data\Managed\Recast.dll (this message is harmless)
+Loading D:\natu000test4_Data\Managed\Recast.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+desktop: 1920x1080 60Hz; virtual: 1280x720 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: F:\natu000test4_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: F:\natu000test4_Data\Managed\UnityScript.Lang.dll (this message is harmless)
-Platform assembly: F:\natu000test4_Data\Managed\Boo.Lang.dll (this message is harmless)
-The file 'F:/natu000test4_Data/level1' is corrupted! Remove it and launch unity again!
+Platform assembly: D:\natu000test4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\natu000test4_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\natu000test4_Data\Managed\Boo.Lang.dll (this message is harmless)
+The file 'D:/natu000test4_Data/level1' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 69514408 > 2406904]
  
 (Filename:  Line: 269)
 
-The file 'F:/natu000test4_Data/level1' is corrupted! Remove it and launch unity again!
+The file 'D:/natu000test4_Data/level1' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 69514408 > 2405600]
  
 (Filename:  Line: 276)
 
-UnloadTime: 65.434753 ms
+UnloadTime: 63.639587 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 13788.
-Total: 309.940277 ms (FindLiveObjects: 1.093250 ms CreateObjectMapping: 0.147102 ms MarkObjects: 1.731021 ms  DeleteObjects: 0.833255 ms)
+Total: 3.430643 ms (FindLiveObjects: 0.753869 ms CreateObjectMapping: 0.120598 ms MarkObjects: 1.318886 ms  DeleteObjects: 0.689721 ms)
 
 The image effect Soldier Camera (ColorCorrectionCurves) has been disabled as it's not supported on the current platform.
  
@@ -55,4 +55,8 @@ The image effect Soldier Camera (ColorCorrectionCurves) has been disabled as it'
 The image effect Soldier Camera (SunShafts) has been disabled as it's not supported on the current platform.
  
 (Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+can't use image filters (npot-RT are not supported or RT are disabled completely)
+ 
+(Filename:  Line: 180)
 
